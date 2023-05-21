@@ -1,0 +1,117 @@
+body{
+       font-family: AA Sameer Kelk, serif;
+}
+.h5{
+       text-align: center;
+}
+.svg{
+       height: 30px;
+       width: 30px;
+       color:#fff;
+       opacity: 0.5;
+}
+.svg:hover{
+       opacity: 1;
+}
+
+
+.hr-dotted{
+       border-top: 5px dotted #DC3545;
+       width: 10%;
+       margin-right: 45%;
+     
+}
+.span{
+       padding: 1px 10px 1px 10px;
+       display: inline-block;
+       color: #fff;
+       background-color: #DC3545;
+       border: none;
+       border-radius: 5px;
+       -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+       -ms-border-radius: 5px;
+       -o-border-radius: 5px;
+}
+
+
+.image{
+       margin-left: 30%;
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+}
+
+
+.shadow{
+            box-shadow: rgba(0, 0, 0, 0.16) 2px 2px 2px, rgba(0, 0, 0, 0.23) 2px 2px 2px;
+}
+.heading1{
+            font-family: AA Sameer Kelk, serif;
+            font-size: 60px;
+            font-weight: bold;
+            text-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.para1{
+            color: white;
+            font-size: 25px;
+            font-family: AA Sameer Kelk, serif;
+
+}
+.icon-color{
+            color: #DC3545;
+}
+.english{
+            height:20px;
+            border-radius:16px;
+            width:80%;
+            background-color:#DC3545!important;
+            color: #fff;
+            text-align: center;
+            padding: 0;
+}
+.amount-bg{
+            border-radius:16px;
+            height:20px;
+}
+.urdu{
+            color: #fff;
+            height:20px;
+            border-radius:16px;
+            width:100%;
+            background-color:#DC3545!important;
+            text-align: center;
+            padding: 0;
+}
+.punjabi{
+            color: #fff;
+            height:20px;
+            border-radius:16px;
+            width:100%;
+            background-color:#DC3545!important;
+            text-align: center;
+            padding: 0;
+}
+.fa-social-icon {
+  padding: 10px;
+  font-size: 20px;
+  /* width: 30px; */
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook,.fa-twitter,.fa-linkedin,.fa-instagram,.fa-snapchat-ghost {
+  background: #fff;
+  color: rgb(51, 50, 50);
+}
